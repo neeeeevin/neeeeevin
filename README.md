@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @neeeeevin
-- 👀 I’m interested in fullstacks and ai
-- 🌱 I’m currently learning btech cse
-- 💞️ I’m looking to collaborate
-- 📫 neeeeevinn848@gmail.com
+# Hi there, I'm Nevin! 👋
 
-<!---
-neeeeevin/neeeeevin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate Full Stack Developer with a strong background in building scalable web applications and robust backend systems. Here's a bit more about me:
+
+## 🚀 About Me
+- 🌐 Full Stack Developer with experience in frontend and backend technologies.
+- 💻 Proficient in **C**, **Java**, **Python**, and **SQL**.
+- ☁️ Enthusiast in cloud technologies, including GCP.
+- 📚 Always eager to learn and explore new technologies and frameworks.
+
+## 🛠️ Skills
+- **Languages**: C, Java, Python, SQL
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend**: Node.js
+- **Databases**: MySQL, MongoDB
+- **Cloud**: GCP
+- **Tools**: Git, Docker, Kubernetes
+
+## 📫 Connect with Me
+- **Email**: nevinalex@karunya.edu.in
+- **LinkedIn**: 
+
+## 🤝 Contributions
+- Open to collaboration on exciting projects and contributing to open-source communities.
+- Check out my repositories to see my latest work and contributions.
+
+---
+
+Thanks for visiting my profile! Feel free to reach out if you'd like to connect or collaborate on a project.
