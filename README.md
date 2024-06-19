@@ -18,7 +18,7 @@ I'm a passionate Full Stack Developer with a strong background in building scala
 
 ## 📫 Connect with Me
 - **Email**: nevinalex@karunya.edu.in
-- **LinkedIn**: 
+- **LinkedIn**: https://www.linkedin.com/in/nevin-alex-varghese-a771a0288?trk=contact-info
 
 ## 🤝 Contributions
 - Open to collaboration on exciting projects and contributing to open-source communities.
