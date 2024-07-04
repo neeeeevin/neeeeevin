@@ -9,7 +9,7 @@ I'm a passionate Full Stack Developer with a strong background in building scala
 - 📚 Always eager to learn and explore new technologies and frameworks.
 
 ## 🛠️ Skills
-- **Languages**: C, Java, Python, SQL
+- **Languages**: C, Java, Python, 
 - **Frontend**: HTML, CSS, JavaScript, React
 - **Backend**: Node.js
 - **Databases**: MySQL, MongoDB
