@@ -4,7 +4,7 @@ I'm a passionate Full Stack Developer with a strong background in building scala
 
 ## 🚀 About Me
 - 🌐 Full Stack Developer with experience in frontend and backend technologies.
-- 💻 Proficient in **C**, **Java**, **Python**, and **SQL**.
+- 💻 Proficient in **C**, **Java**, **Python**.
 - ☁️ Enthusiast in cloud technologies, including GCP.
 - 📚 Always eager to learn and explore new technologies and frameworks.
 
