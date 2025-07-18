@@ -3,18 +3,18 @@
 I'm a passionate Full Stack Developer with a strong background in building scalable web applications and robust backend systems. Here's a bit more about me:
 
 ## 🚀 About Me
-- 🌐 Full Stack Developer with experience in frontend and backend technologies.
+- 🌐 Full Stack
 - 💻 Proficient in **C**, **Java**, **Python**.
-- ☁️ Enthusiast in cloud technologies, including GCP.
+- ☁️ Enthusiast in cloud technologies and AI
 - 📚 Always eager to learn and explore new technologies and frameworks.
 
 ## 🛠️ Skills
 - **Languages**: C, Java, Python, 
 - **Frontend**: HTML, CSS, JavaScript, React
 - **Backend**: Node.js
-- **Databases**: MySQL, MongoDB
+- **Databases**: MySQL
 - **Cloud**: GCP
-- **Tools**: Git, Docker, Kubernetes
+- **Tools**: Git, Docker
 
 ## 📫 Connect with Me
 - **Email**: nevinalex@karunya.edu.in
@@ -26,4 +26,4 @@ I'm a passionate Full Stack Developer with a strong background in building scala
 
 ---
 
-Thanks for visiting my profile! Feel free to reach out if you'd like to connect or collaborate on a project.
+
